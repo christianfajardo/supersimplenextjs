@@ -1,0 +1,149 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "created_by": "4fdbaab8-9ad9-4b71-a309-8ac1207e461b",
+      "email": "jhetfield@mail.com",
+      "phone": "(415)123-124",
+      "first_name": "James",
+      "middle_name": "",
+      "last_name": "Hethfields",
+      "birth_date": "03/22/2024",
+      "patient_status": "Inquiry",
+      "addresses": [
+        {
+          "street": "123 First Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94111"
+        },
+        {
+          "street": "321 Second Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94111"
+        }
+      ],
+      "custom": [
+        {
+          "custom1": "111111",
+          "custom2": "lorem so"
+        }
+      ],
+      "employee_status": ""
+    },
+    {
+      "id": "2",
+      "created_by": "4fdbaab8-9ad9-4b71-a309-8ac1207e461b",
+      "email": "khammet@mail.com",
+      "first_name": "Kirk",
+      "middle_name": "",
+      "last_name": "Hammet",
+      "birth_date": "03/21/1978",
+      "patient_status": "Churned",
+      "phone": "(925)123-4567",
+      "addresses": [
+        {
+          "street": "555 Third Street",
+          "city": "San Ramon",
+          "state": "CA",
+          "zip": "94583"
+        },
+        {
+          "street": "321 Second Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94111"
+        }
+      ],
+      "custom": [
+        {
+          "custom1": "222",
+          "custom2": "lorem so lead guitar"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "created_by": "4fdbaab8-9ad9-4b71-a309-8ac1207e461b",
+      "email": "lulrich@mail.com",
+      "first_name": "Lars",
+      "middle_name": "G",
+      "last_name": "Ulrich",
+      "birth_date": "02/01/1985",
+      "patient_status": "Active",
+      "phone": "(510)123-4567",
+      "addresses": [
+        {
+          "street": "111 First Street",
+          "city": "Oakland",
+          "state": "CA",
+          "zip": "94501"
+        },
+        {
+          "street": "321 Second Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94111"
+        }
+      ],
+      "custom": [
+        {
+          "custom1": "drummer",
+          "custom2": "lorem so drummer"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "created_by": "4fdbaab8-9ad9-4b71-a309-8ac1207e461b",
+      "email": "rtrujillo@mail.com",
+      "first_name": "Robert",
+      "middle_name": "G",
+      "last_name": "Trujillo",
+      "birth_date": "07/07/1985",
+      "patient_status": "Churned",
+      "phone": "(510)123-4567",
+      "addresses": [
+        {
+          "street": "444 Fourth Street",
+          "city": "Berkeley",
+          "state": "CA",
+          "zip": "94701"
+        },
+        {
+          "street": "321 Second Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94111"
+        }
+      ],
+      "custom": [
+        {
+          "custom1": "base",
+          "custom2": "lorem so base"
+        }
+      ]
+    },
+    {
+      "id": "f449",
+      "first_name": "Christian",
+      "last_name": "Fajardo",
+      "birth_date": "04/11/2024",
+      "email": "ulchris@yahoo.com",
+      "phone": "9255487153",
+      "addresses": [],
+      "employee_status": "Inquiry"
+    },
+    {
+      "id": "b96f",
+      "first_name": "Christian",
+      "last_name": "Fajardo",
+      "birth_date": "04/19/2024",
+      "email": "ulchris@yahoo.com",
+      "phone": "9255487153",
+      "addresses": [],
+      "employee_status": "Inquiry"
+    }
+  ]
+}
